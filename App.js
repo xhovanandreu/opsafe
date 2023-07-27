@@ -68,6 +68,7 @@ const styles = StyleSheet.create({
     overflow: 'hidden', // Hide overflowing images
   },
   imageFrame: {
+    marginTop: 30,
     width: 100,
     height: 120,
     marginHorizontal: 5, // Add horizontal margin between images
